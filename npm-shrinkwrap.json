@@ -1667,7 +1667,7 @@
     "internal-carto.js": {
       "version": "4.0.12",
       "from": "cartodb/carto.js#v4.0.12",
-      "resolved": "git://github.com/cartodb/carto.js.git#655211487ceeb22aced27e28135bb9c723b79386"
+      "resolved": "git://github.com/cartodb/carto.js.git#fb017ba1d3261fe3639cb1618a79e33c1ebca14a"
     },
     "interpret": {
       "version": "1.1.0",
