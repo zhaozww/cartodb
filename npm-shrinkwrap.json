@@ -1666,8 +1666,8 @@
     },
     "internal-carto.js": {
       "version": "4.1.1-0",
-      "from": "cartodb/carto.js#v4.1.1-0",
-      "resolved": "git://github.com/cartodb/carto.js.git#85499951eb4ea2199c6c11db4ce4071f2880fe10"
+      "from": "cartodb/carto.js#fix-displaced-popups-scroll",
+      "resolved": "git://github.com/cartodb/carto.js.git#42f450f4cbb9f52459631bf50275483b1e5b7478"
     },
     "interpret": {
       "version": "1.1.0",
